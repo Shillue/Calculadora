@@ -1,2 +1,2 @@
 # Calculadora
- Com Javascript, HTML e CSS
+ Programa Simples com Javascript, HTML e CSS.
