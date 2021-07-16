@@ -10,69 +10,69 @@ body{
 }
 #resultado{
     background-color: white;
-    width: 180px;
-    height: 30px;
-    margin: 5px;
     color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
-    text-align: right;
+    height: 30px;
+    margin: 5px;
     padding: 2px;
+    text-align: right;
+    width: 180px;
 }
 .calculadora{
-    position: absolute;
     background-color: rgba(0,0, 0, 0.9);
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     border-radius: 30px;
+    left: 50%;
     padding: 20px;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
 }
 .botao{
-    width: 40px;
-    height: 40px;
-    font-size: 23px;
-    font-family: 'Times New Roman', Times, serif;
-    cursor: pointer;
     background-color: rgb(31, 31, 31);
+    border-radius: 10px;
     border: none;
     color: white;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    height: 40px;
     margin: 2px;
-    border-radius: 10px;
+    width: 40px;
 }
 .botao:hover{
     background-color: black;
 }
 .botaoRaiz{
-    width: 40px;
-    height: 40px;
-    font-size: 23px;
-    font-family: 'Times New Roman', Times, serif;
-    cursor: pointer;
     background-color: rgb(31, 31, 31);
+    border-radius: 10px;
     border: none;
     color: white;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    height: 40px;
     margin: 2px;
-    border-radius: 10px;
+    width: 40px;
 }
 .botaoRaiz:hover{
     background-color: black;
 }
 img{
-    width:35px ;
     height: 35px;
+    width:35px ;
 }
 .botaoIgual{
-    width: 80px;
-    height: 40px;
-    font-size: 23px;
-    font-family: 'Times New Roman', Times, serif;
-    cursor: pointer;
     background-color: rgb(31, 31, 31);
+    border-radius: 10px;
     border: none;
     color: white;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    height: 40px;
     margin: 2px;
-    border-radius: 10px;
+    width: 80px;
 }
 .botaoIgual:hover{
     background-color: black;
