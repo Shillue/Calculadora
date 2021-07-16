@@ -43,8 +43,8 @@ body{
 .botao:hover{
     background-color: black;
 }
-.botao0{
-    width: 80px;
+.botaoRaiz{
+    width: 40px;
     height: 40px;
     font-size: 23px;
     font-family: 'Times New Roman', Times, serif;
@@ -55,12 +55,16 @@ body{
     margin: 2px;
     border-radius: 10px;
 }
-.botao0:hover{
+.botaoRaiz:hover{
     background-color: black;
 }
+img{
+    width:35px ;
+    height: 35px;
+}
 .botaoIgual{
-    width: 40px;
-    height: 80px;
+    width: 80px;
+    height: 40px;
     font-size: 23px;
     font-family: 'Times New Roman', Times, serif;
     cursor: pointer;

@@ -17,3 +17,12 @@ function limpar(){
          document.getElementById("resultado").innerHTML = "";
      }
  }
+ function raiz(){
+    var result = document.getElementById("resultado").innerHTML;
+    if(result){
+    result = Math.sqrt(result);
+    document.getElementById("resultado").innerHTML = result;
+    }else{
+        document.getElementById("resultado").innerHTML = "";
+    }
+ }
